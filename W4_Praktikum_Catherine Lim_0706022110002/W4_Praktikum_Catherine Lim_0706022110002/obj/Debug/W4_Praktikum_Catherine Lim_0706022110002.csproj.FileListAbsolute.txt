@@ -1,0 +1,10 @@
+D:\Kuliah\Semester 2 (2022)\Application Development\W4_Praktikum_Catherine Lim_0706022110002\W4_Praktikum_Catherine Lim_0706022110002\bin\Debug\W4_Praktikum_Catherine Lim_0706022110002.exe.config
+D:\Kuliah\Semester 2 (2022)\Application Development\W4_Praktikum_Catherine Lim_0706022110002\W4_Praktikum_Catherine Lim_0706022110002\bin\Debug\W4_Praktikum_Catherine Lim_0706022110002.exe
+D:\Kuliah\Semester 2 (2022)\Application Development\W4_Praktikum_Catherine Lim_0706022110002\W4_Praktikum_Catherine Lim_0706022110002\bin\Debug\W4_Praktikum_Catherine Lim_0706022110002.pdb
+D:\Kuliah\Semester 2 (2022)\Application Development\W4_Praktikum_Catherine Lim_0706022110002\W4_Praktikum_Catherine Lim_0706022110002\obj\Debug\W4_Praktikum_Catherine Lim_0706022110002.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 2 (2022)\Application Development\W4_Praktikum_Catherine Lim_0706022110002\W4_Praktikum_Catherine Lim_0706022110002\obj\Debug\W4_Praktikum_Catherine_Lim_0706022110002.Form1.resources
+D:\Kuliah\Semester 2 (2022)\Application Development\W4_Praktikum_Catherine Lim_0706022110002\W4_Praktikum_Catherine Lim_0706022110002\obj\Debug\W4_Praktikum_Catherine_Lim_0706022110002.Properties.Resources.resources
+D:\Kuliah\Semester 2 (2022)\Application Development\W4_Praktikum_Catherine Lim_0706022110002\W4_Praktikum_Catherine Lim_0706022110002\obj\Debug\W4_Praktikum_Catherine Lim_0706022110002.csproj.GenerateResource.cache
+D:\Kuliah\Semester 2 (2022)\Application Development\W4_Praktikum_Catherine Lim_0706022110002\W4_Praktikum_Catherine Lim_0706022110002\obj\Debug\W4_Praktikum_Catherine Lim_0706022110002.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 2 (2022)\Application Development\W4_Praktikum_Catherine Lim_0706022110002\W4_Praktikum_Catherine Lim_0706022110002\obj\Debug\W4_Praktikum_Catherine Lim_0706022110002.exe
+D:\Kuliah\Semester 2 (2022)\Application Development\W4_Praktikum_Catherine Lim_0706022110002\W4_Praktikum_Catherine Lim_0706022110002\obj\Debug\W4_Praktikum_Catherine Lim_0706022110002.pdb
